@@ -1,6 +1,6 @@
 # Bundestag Speech Analysis: Lexicon vs. Model-based Approaches
 
-This notebook compares lexicon-based and model-based approaches for:
+This notebook looks at lexicon-based approaches for:
 - Named Entity Recognition (NER)
 - Sentiment Analysis
 
@@ -13,14 +13,13 @@ Click the button below to launch an interactive session:
 ## Local Setup
 ```bash
 pip install -r requirements.txt
-python -m spacy download de_core_news_lg
 jupyter notebook
 ```
 
 ## Data
 
-- `reden.csv`: Bundestag speeches
-- `SentiWS_v2.0_*.txt`: German sentiment lexicon
+- `eu_speeches_2024_english.csv`: EU parliament speeches, extracted from [ParlLawSpeech](https://parllawspeech.org/data/)
+- `vader.txt`: English sentiment lexicon, extracted from [vaderSentiment](https://pypi.org/project/vaderSentiment/)
 
 ## Author
 
