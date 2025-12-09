@@ -8,7 +8,7 @@ This notebook looks at lexicon-based approaches for:
 
 Click the button below to launch an interactive session:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR-USERNAME/bundestag-nlp-analysis/main?filepath=notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nina-bro/political-speeches-nlp/HEAD?urlpath=%2Fdoc%2Ftree%2Flexicon-based-approaches.ipynb)
 
 ## Local Setup
 ```bash
