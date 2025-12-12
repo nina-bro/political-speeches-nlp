@@ -4,6 +4,7 @@ This notebook looks at lexicon-based approaches for:
 - Named Entity Recognition (NER)
 - Sentiment Analysis
 
+It was created for a workshop for the [Center for Political Practices and Orders](https://www.uni-erfurt.de/staatswissenschaftliche-fakultaet/forschung/wissenschaftliche-karriere/nachwuchskollegs/center-for-political-practices-and-orders-c2po).
 ## Running on Binder
 
 Click the button below to launch an interactive session:
